@@ -1,0 +1,9 @@
+PIEZA: Puerta del Sol, Tiwanaku, Bolivia.
+
+IMAGEN INCLUIDA: visualización educativa generada por IA para la demostración geométrica. No es fotografía documental. Los puntos de control y el spline se calcularon sobre esta imagen.
+
+REFERENCIA FOTOGRÁFICA EXTERNA: Marek Grote, “Puerta del sol Tiwanaku.jpg”, Wikimedia Commons, licencia CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Puerta_del_sol_Tiwanaku.jpg
+
+OTRA FOTOGRAFÍA FRONTAL: Andrea Lastra, “Puerta del Sol — Vista frontal, Tiwanaku, Bolivia.jpg”, Wikimedia Commons, CC0: https://commons.wikimedia.org/wiki/File:Puerta_del_Sol_—_Vista_frontal,_Tiwanaku,_Bolivia.jpg
+
+Para un registro arqueológico real, digitaliza los puntos sobre una fotografía frontal y autorizada.

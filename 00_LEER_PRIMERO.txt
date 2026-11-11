@@ -1,0 +1,10 @@
+PROYECTO PUERTA DEL SOL
+
+1. Extrae el ZIP.
+2. Instala Python 3.10 o superior.
+3. Haz doble clic en INICIAR.bat.
+4. Se abre la página del proyecto en http://127.0.0.1:8000.
+5. El video listo está en outputs/video_final_con_narracion.mp4.
+6. El guion está en docs/guion_narracion.txt.
+
+IMPORTANTE: la imagen de trabajo es una visualización educativa generada por IA, no fotografía documental. Para cumplir estrictamente una consigna que exige fotografía real, debes sustituirla por una fotografía propia o autorizada y volver a marcar los puntos.

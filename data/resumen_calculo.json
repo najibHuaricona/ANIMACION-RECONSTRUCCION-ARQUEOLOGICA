@@ -1,0 +1,20 @@
+{
+  "pieza": "Puerta del Sol de Tiwanaku",
+  "zona": "Contorno interior del vano central",
+  "metodo": "Spline cúbico natural paramétrico con parámetro centrípeto",
+  "imagen_de_trabajo": "Visualización educativa generada por IA; no es fotografía documental",
+  "dimensiones_imagen_px": {
+    "ancho": 1536,
+    "alto": 1024
+  },
+  "numero_puntos": 15,
+  "numero_tramos": 14,
+  "parametrizacion": "t0=0; t(i+1)=ti+sqrt(distancia(Pi,Pi+1))",
+  "condiciones_extremos": "Spline natural: segunda derivada nula en los extremos",
+  "errores_maximos_continuidad": {
+    "C0": 1.1368683772161603e-13,
+    "C1": 1.7763568394002505e-15,
+    "C2": 2.220446049250313e-16
+  },
+  "nota": "Las coordenadas se midieron sobre la visualización educativa incluida. Para una entrega documental, sustituir por fotografía propia o autorizada y volver a digitalizar los puntos."
+}
